@@ -1,0 +1,26 @@
+/* This stylesheet is used to style the public view of the plugin. */
+
+#addresses > div {
+	/*border-bottom: 1px solid #777;
+	padding-bottom: 20px;
+	margin-bottom: 20px;*/
+}
+
+#shipping_alt{
+
+width:210%;
+
+}
+.add_address{
+
+left:8px;
+position:relative;
+
+}
+@media screen and (max-width: 758px){
+  #shipping_alt{
+
+width:100%;
+
+}
+ }

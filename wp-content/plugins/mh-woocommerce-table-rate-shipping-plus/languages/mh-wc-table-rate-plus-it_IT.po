@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Table Rate Shipping Plus\n"
+"Language: it\n"
+
+#: EDD_SL_Plugin_Updater.php:177
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr "E' disponibile una nuova versione di %1$s. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Guarda i dettagli della versione %3$s</a>. "
+
+#: EDD_SL_Plugin_Updater.php:184
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr "E' disponibile una nuova versione di %1$s. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Guarda i dettagli della versione %3$s</a> oppure <a href=\"%4$s\">aggiorna adesso</a>. "
+
+#: EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr "Non hai i privilegi per installare aggiornamenti dei plugin"
+
+#: EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Errore"
+
+#: mh-wc-table-rate-plus.php:69
+msgid "Table Rate Plus"
+msgstr "Table Rate Plus"
+
+#. I suggest to translate in italian both the name of the plugin and the description, after i'll think abot a possible way to do it..
+#: mh-wc-table-rate-plus.php:70
+msgid "A table rate shipping plugin"
+msgstr "A table rate shipping plugin"
+
+#: mh-wc-table-rate-plus.php:125
+msgid "Enable"
+msgstr "Abilita"
+
+#: mh-wc-table-rate-plus.php:127
+msgid "Enable this shipping method"
+msgstr "Abilita questo metodo di spedizione"
+
+#: mh-wc-table-rate-plus.php:131
+msgid "License Key"
+msgstr "License Key "
+
+#: mh-wc-table-rate-plus.php:132
+msgid "Enter your license key, as shown in your confirmation email"
+msgstr "Inserisci la tua License Key, contenuta nell'email di conferma"
+
+#: mh-wc-table-rate-plus.php:137
+msgid "Tax Status"
+msgstr "Stato della tassa"
+
+#: mh-wc-table-rate-plus.php:141
+msgid "Taxable"
+msgstr "Tassabile"
+
+#: mh-wc-table-rate-plus.php:142 mh-wc-table-rate-plus.php:321
+msgid "None"
+msgstr "Nessuno"
+
+#: mh-wc-table-rate-plus.php:146
+msgid "Handling Fee"
+msgstr "Spese di gestione"
+
+#: mh-wc-table-rate-plus.php:147
+msgid "Fee, excluding tax. Leave blank to disable."
+msgstr "Spese di gestione, tasse escluse. Lascia vuoto per disabilitare."
+
+#: mh-wc-table-rate-plus.php:153
+msgid "Calculation Type"
+msgstr "Tipo di calcolo"
+
+#: mh-wc-table-rate-plus.php:154
+msgid "<strong>Per order</strong> - shipping will be calculated based on whole cart, using the highest priority shipping class.<br><br><strong>Per shipping class</strong> - shipping will be calculated for each shipping class, then added together"
+msgstr "La spedizione <strong>per ordine</strong> - sarà calcolata in base all'intero carrello, usando la classe di spedizione con la priorità più alta.<br><br>La spedizione <strong>per classe di spedizione</strong> sarà calcolata per ogni classe di spedizione, poi sommate."
+
+#: mh-wc-table-rate-plus.php:158
+msgid "Per order"
+msgstr "Per ordine"
+
+#: mh-wc-table-rate-plus.php:159
+msgid "Per shipping class"
+msgstr "Per classe di spedizione"
+
+#: mh-wc-table-rate-plus.php:211
+msgid "Standard Shipping"
+msgstr "Spedizione standard"
+
+#: mh-wc-table-rate-plus.php:295
+msgid "You have not entered a valid license key for Table Rate Shipping Plus."
+msgstr "La license key per Table Rate Shipping Plus inserita non è valida."
+
+#: mh-wc-table-rate-plus.php:312
+msgid "Everywhere Else"
+msgstr "Qualsiasi altra destinazione"
+
+#: mh-wc-table-rate-plus.php:320
+msgid "Any"
+msgstr "Qualsiasi"
+
+#: mh-wc-table-rate-plus.php:348
+msgid "No countries with states available"
+msgstr "Nessuna nazione con regioni/province disponibile"
+
+#: mh-wc-table-rate-plus.php:349
+msgid "Unavailable"
+msgstr "Non disponibile"
+
+#: mh-wc-table-rate-plus.php:353
+msgid "Weight (%s)"
+msgstr "Peso (%s) "
+
+#: mh-wc-table-rate-plus.php:354
+msgid "Total (%s)"
+msgstr "Totale (%s) "
+
+#: mh-wc-table-rate-plus.php:355
+msgid "Item count"
+msgstr "Quantità articoli"
+
+#: mh-wc-table-rate-plus.php:358 mh-wc-table-rate-plus.php:492
+msgid "Country"
+msgstr "Nazione"
+
+#: mh-wc-table-rate-plus.php:359
+msgid "State"
+msgstr "Regione/Provincia"
+
+#: mh-wc-table-rate-plus.php:360
+msgid "Post/zip code"
+msgstr "Zip code/C.A.P. italiani"
+
+#: mh-wc-table-rate-plus.php:443
+msgid "Table Rate Shipping Plus"
+msgstr "Table Rate Shipping Plus "
+
+#: mh-wc-table-rate-plus.php:449
+msgid "Export/Backup Settings"
+msgstr "Esporta/Backup impostazioni"
+
+#: mh-wc-table-rate-plus.php:466
+msgid "Shipping Zones"
+msgstr "Zone di spedizione"
+
+#: mh-wc-table-rate-plus.php:476 mh-wc-table-rate-plus.php:715
+#: mh-wc-table-rate-plus.php:811
+msgid "ID"
+msgstr "ID"
+
+#: mh-wc-table-rate-plus.php:477 mh-wc-table-rate-plus.php:716
+msgid "Name"
+msgstr "Nome"
+
+#: mh-wc-table-rate-plus.php:477
+msgid "Shipping zone name, will appear in table rates table."
+msgstr "Nome della zona di spedizione, comparirà nella tabella di spedizione."
+
+#: mh-wc-table-rate-plus.php:478
+msgid "Zone Type"
+msgstr "Tipo di zona"
+
+#: mh-wc-table-rate-plus.php:479
+msgid "Values"
+msgstr "Valori"
+
+#: mh-wc-table-rate-plus.php:479
+msgid "Enter the values for the zone. For more information please see the support documentation."
+msgstr "Inserire i valori per la zona. Per maggiori informazioni, consultare la documentazione di supporto."
+
+#: mh-wc-table-rate-plus.php:484
+msgid "Add Shipping Zone"
+msgstr "Aggiungi zona di spedizione"
+
+#: mh-wc-table-rate-plus.php:484
+msgid "Delete Selected Zones"
+msgstr "Rimuovi zone selezionate"
+
+#: mh-wc-table-rate-plus.php:491
+msgid "Default Zone (everywhere else)"
+msgstr "Zona predefinita (qualsiasi altra destinazione)"
+
+#: mh-wc-table-rate-plus.php:493
+msgid "All allowed countries"
+msgstr "Tutte le nazioni permesse"
+
+#: mh-wc-table-rate-plus.php:604
+msgid "Enter zone name"
+msgstr "Inserisci il nome della zona"
+
+#: mh-wc-table-rate-plus.php:614
+msgid "Select one or more countries"
+msgstr "Selezionare una o più nazioni"
+
+#: mh-wc-table-rate-plus.php:622
+msgid "Select one or more states"
+msgstr "Selezionare uno o più stati/province"
+
+#: mh-wc-table-rate-plus.php:630
+msgid "Enter one postal code or range per line"
+msgstr "Inserire un C.A.P. o una serie di C.A.P. per riga"
+
+#: mh-wc-table-rate-plus.php:631
+msgid "Exclude"
+msgstr "Escludi"
+
+#: mh-wc-table-rate-plus.php:631
+msgid "If checked, the above postal codes will be excluded from the shipping zone. All other postal codes will be accepted."
+msgstr "Se selezionati, i C.A.P. qui sopra saranno esclusi dalla zona di spedizione. Tutti gli altri C.A.P. saranno accettati."
+
+#: mh-wc-table-rate-plus.php:635
+msgid "Edit zone settings"
+msgstr "Modificare opzioni della zona"
+
+#: mh-wc-table-rate-plus.php:680
+msgid "Delete the selected zones?"
+msgstr "Rimuovere le zone selezionate?"
+
+#: mh-wc-table-rate-plus.php:705
+msgid "Shipping Services"
+msgstr "Modalità di spedizione"
+
+#: mh-wc-table-rate-plus.php:716
+msgid "Name of shipping service. This will be displayed to customers when choosing a shipping service."
+msgstr "Nome della modalità di spedizione. Sarà visualizzato dai clienti quando sceglieranno la modalità di spedizione."
+
+#: mh-wc-table-rate-plus.php:717
+msgid "Priority"
+msgstr "Priorità"
+
+#: mh-wc-table-rate-plus.php:717
+msgid "Priority will control order in which shipping service are displayed."
+msgstr "La priorità controllerà l'ordine con il quale le modalità di spedizione verranno visualizzate."
+
+#: mh-wc-table-rate-plus.php:722
+msgid "Add Shipping Service"
+msgstr "Aggiungi modalità di spedizione"
+
+#: mh-wc-table-rate-plus.php:722
+msgid "Delete Selected Services"
+msgstr "Cancella le modalità di spedizione selezionate"
+
+#: mh-wc-table-rate-plus.php:781
+msgid "Delete the selected services?"
+msgstr "Cancellare le modalità di spedizione selezionate?"
+
+#: mh-wc-table-rate-plus.php:806
+msgid "Shipping Rates"
+msgstr "Spese di spedizione"
+
+#: mh-wc-table-rate-plus.php:812
+msgid "Zone"
+msgstr "Zona"
+
+#: mh-wc-table-rate-plus.php:812
+msgid "Shipping zone, as defined in Shipping Zones table."
+msgstr "Zona di spedizione, come definito nella tabella Zone di spedizione"
+
+#: mh-wc-table-rate-plus.php:813
+msgid "Service"
+msgstr "Modalità di spedizione"
+
+#: mh-wc-table-rate-plus.php:813
+msgid "Name of shipping service. If a shipping service is shared by multiple table rates, the cheapest applicable table rate will be given to the customer."
+msgstr "Nome della modalità di spedizione. Se la modalità è condivisa da più tabelle, verrà offerta al cliente la più economica applicabile."
+
+#: mh-wc-table-rate-plus.php:814
+msgid "Class"
+msgstr "Classe"
+
+#: mh-wc-table-rate-plus.php:814
+msgid "Shipping class, as defined in WooCommerce settings."
+msgstr "Classe di spedizione, come definito dalle opzioni di WooCommerce."
+
+#: mh-wc-table-rate-plus.php:815
+msgid "Condition"
+msgstr "Condizione"
+
+#: mh-wc-table-rate-plus.php:815
+msgid "Choose which metric to base your table rate on."
+msgstr "Scegliere su quale metrica basare le spese di spedizione."
+
+#: mh-wc-table-rate-plus.php:816
+msgid "Min"
+msgstr "Min"
+
+#: mh-wc-table-rate-plus.php:816
+msgid "Minimum, in decimal format. Inclusive."
+msgstr "Numero articoli minimo (compreso), in formato decimale"
+
+#: mh-wc-table-rate-plus.php:817
+msgid "Max"
+msgstr "Max"
+
+#: mh-wc-table-rate-plus.php:818
+msgid "Flat rate cost, excluding tax."
+msgstr "Costo fisso, tasse escluse"
+
+#: mh-wc-table-rate-plus.php:819
+msgid "Cost Per Item"
+msgstr "Costo Per Articolo"
+
+#: mh-wc-table-rate-plus.php:819
+msgid "Additional cost per item, excluding tax."
+msgstr "Costo addizionale per articolo, tasse escluse."
+
+#: mh-wc-table-rate-plus.php:820
+msgid "Cost Per %s"
+msgstr "Costo Per %s"
+
+#: mh-wc-table-rate-plus.php:820
+msgid "Additional cost per weight unit, excluding tax."
+msgstr "Costo addizionale per unità di peso, tasse escluse."
+
+#: mh-wc-table-rate-plus.php:825
+msgid "Add Table Rate"
+msgstr "Aggiungi tabella"
+
+#: mh-wc-table-rate-plus.php:825
+msgid "Delete Selected Rates"
+msgstr "Cancella la tabella selezionata"
+
+#: mh-wc-table-rate-plus.php:943
+msgid "Delete the selected rates?"
+msgstr "Cancellare la tabella selezionata?"
+
+#: mh-wc-table-rate-plus.php:979
+msgid "Class Priority"
+msgstr "Priorità classi di spedizione"
+
+#: mh-wc-table-rate-plus.php:984
+msgid "Drag and drop the above shipping classes to control their priority. This is only used for the <strong>per order</strong> calculation type."
+msgstr "Trascina e rilascia le classi di spedizione qui sopra per gestire la loro priorità. La priorità è usata solo per il calcolo del tipo  <strong>per ordine</strong>"
+
+#: mh-wc-table-rate-plus.php:1044
+msgid "Import Settings"
+msgstr "Importa impostazioni"
+
+#: mh-wc-table-rate-plus.php:1046
+msgid "Import settings from backup file"
+msgstr "Importa impostazioni da file di backup"
+
+#: mh-wc-table-rate-plus.php:467
+msgid "After adding a shipping zone, hit \"Save changes\" so that it appears as an option in the shipping rates section."
+msgstr "Dopo avere aggiunto una zona di spedizione, clicca su \"Salva modifiche\" per farla comparire come un'opzione nella sezione spese di spedizione."
+
+#: mh-wc-table-rate-plus.php:706
+msgid "After adding a shipping service, hit \"Save changes\" so that it appears as an option in the shipping rates section."
+msgstr "Dopo avere aggiunto una modalità di spedizione, clicca su \"Salva modifiche\" per farla comparire come un'opzione nella sezione spese di spedizione."
+
+#: mh-wc-table-rate-plus.php:817
+msgid "Maximum, in decimal format. Inclusive. To impose no upper limit, use *."
+msgstr "Limite numero articoli massimo (incluso), in formato decimale. Per non impostare un limite massimo, usa *."
+
+#: mh-wc-table-rate-plus.php:818
+msgid "Base Cost"
+msgstr "Costo Fisso"
+
+#: mh-wc-table-rate-plus.php:446
+msgid "For support and updates please visit the <a href=\"%s\">Mangohour support website</a>."
+msgstr "Per aggiornamenti e supporto, visita il sito <a href=\"%s\">Mangohour</a>."
+

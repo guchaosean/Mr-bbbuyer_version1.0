@@ -1,0 +1,76 @@
+[24-May-2015 03:14:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/themes/mystile/header.php on line 48
+[24-May-2015 03:16:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/themes/mystile/header.php on line 48
+[24-May-2015 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/themes/mystile/header.php on line 50
+[25-May-2015 04:12:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/plugins/pie-register/classes/edit_form.php on line 554
+[25-May-2015 23:27:19 UTC] PHP Fatal error:  Call to a member function get_categories() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/exec-php/includes/runtime.php(42) : eval()'d code on line 2
+[25-May-2015 23:27:53 UTC] PHP Fatal error:  Call to a member function get_categories() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/exec-php/includes/runtime.php(42) : eval()'d code on line 2
+[25-May-2015 23:29:58 UTC] PHP Fatal error:  Call to a member function get_categories() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/exec-php/includes/runtime.php(42) : eval()'d code on line 2
+[25-May-2015 23:31:02 UTC] PHP Fatal error:  Call to a member function get_categories() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/exec-php/includes/runtime.php(42) : eval()'d code on line 2
+[25-May-2015 23:31:19 UTC] PHP Fatal error:  Call to a member function get_categories() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/exec-php/includes/runtime.php(42) : eval()'d code on line 2
+[01-Jun-2015 00:23:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/myaccount/my-account.php on line 27
+[01-Jun-2015 01:18:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/wp-content/themes/mystile/functions.php on line 59
+[01-Jun-2015 01:19:04 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/wp-content/themes/mystile/functions.php on line 59
+[01-Jun-2015 01:19:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/wp-content/themes/mystile/functions.php on line 59
+[01-Jun-2015 01:20:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/wp-content/themes/mystile/functions.php on line 59
+[01-Jun-2015 01:22:07 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/mrbbbuye/public_html/wp-content/themes/mystile/includes/theme-functions.php on line 7
+[01-Jun-2015 01:22:12 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/mrbbbuye/public_html/wp-content/themes/mystile/includes/theme-functions.php on line 7
+[01-Jun-2015 03:23:56 UTC] PHP Fatal error:  Call to a member function is_type() on a non-object in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce-quick-buy/woocommerce-quick-buy.php on line 252
+[01-Jun-2015 03:28:44 UTC] PHP Fatal error:  Call to undefined function wc_quick_buy_after_add_to_cart_form_add() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 80
+[01-Jun-2015 03:28:52 UTC] PHP Fatal error:  Call to undefined function wc_quick_buy_after_add_to_cart_form_add() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 80
+[01-Jun-2015 03:29:54 UTC] PHP Fatal error:  Call to undefined function wc_quick_buy_after_add_to_cart_form_add() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 83
+[01-Jun-2015 03:30:05 UTC] PHP Fatal error:  Call to undefined function wc_quick_buy_after_add_to_cart_form_add() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 83
+[01-Jun-2015 03:35:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 83
+[01-Jun-2015 03:46:04 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:46:28 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:48:03 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:49:38 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:50:46 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:52:20 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 85
+[01-Jun-2015 03:53:00 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 83
+[01-Jun-2015 03:53:06 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php on line 83
+[01-Jun-2015 05:38:03 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:38:32 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:38:34 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:38:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:39:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:42:55 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:43:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:43:56 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:43:59 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 17
+[01-Jun-2015 05:45:32 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:45:33 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:45:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:45:57 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:45:58 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:46:01 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 36
+[01-Jun-2015 05:46:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 38
+[01-Jun-2015 05:46:57 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mrbbbuye/public_html/test.php on line 38
+[01-Jun-2015 05:48:37 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 18
+[01-Jun-2015 05:48:50 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 18
+[01-Jun-2015 05:52:21 UTC] PHP Notice:  Undefined variable: customerid in /home/mrbbbuye/public_html/test.php on line 23
+[01-Jun-2015 05:52:52 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mrbbbuye/public_html/test.php on line 19
+[01-Jun-2015 05:53:16 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mrbbbuye/public_html/test.php on line 19
+[01-Jun-2015 05:53:56 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mrbbbuye/public_html/test.php on line 21
+[01-Jun-2015 05:55:16 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/mrbbbuye/public_html/test.php on line 30
+[10-Jun-2015 04:33:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/plugins/pie-register/login_form.php on line 392
+[10-Jun-2015 04:33:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mrbbbuye/public_html/wp-content/plugins/pie-register/login_form.php on line 392
+[17-Jun-2015 03:25:11 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'siteorigin_panels_is_using_bundled' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), call_user_func_array, siteorigin_panels_init, siteorigin_panels_setting, SiteOrigin_Panels_Settings->get, apply_filters('siteorigin_panels_settings_defaults'), call_user_func_array, SiteOrigin_Panels_Settings->settings_defaults, get_option查询的。
+[17-Jun-2015 03:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1604
+[17-Jun-2015 03:31:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1604
+[17-Jun-2015 03:31:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1604
+[17-Jun-2015 03:32:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1604
+[17-Jun-2015 03:32:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1604
+[22-Jun-2015 02:48:53 UTC] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php on line 652
+[22-Jun-2015 02:48:55 UTC] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php on line 652
+[22-Jun-2015 02:49:23 UTC] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php on line 652
+[22-Jun-2015 05:04:03 UTC] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php on line 651
+[23-Jun-2015 00:43:25 UTC] PHP Catchable fatal error:  Object of class WC_Order could not be converted to string in /home/mrbbbuye/public_html/wp-content/plugins/my_plugin/save_jietu.php on line 34
+[23-Jun-2015 00:43:30 UTC] PHP Catchable fatal error:  Object of class WC_Order could not be converted to string in /home/mrbbbuye/public_html/wp-content/plugins/my_plugin/save_jietu.php on line 34
+[23-Jun-2015 00:48:54 UTC] PHP Catchable fatal error:  Object of class WC_Order could not be converted to string in /home/mrbbbuye/public_html/wp-content/plugins/my_plugin/save_jietu.php on line 34
+[23-Jun-2015 00:49:13 UTC] PHP Catchable fatal error:  Object of class WC_Order could not be converted to string in /home/mrbbbuye/public_html/wp-content/plugins/my_plugin/save_jietu.php on line 34
+[23-Jun-2015 00:58:13 UTC] PHP Parse error:  syntax error, unexpected T_TRY, expecting T_CATCH in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php on line 371
+[23-Jun-2015 01:02:17 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_CATCH in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php on line 672
+[23-Jun-2015 01:02:27 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_CATCH in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php on line 672
+[23-Jun-2015 06:45:20 UTC] PHP Fatal error:  Class 'WC_Gateway_BACS' not found in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php on line 99
+[24-Jun-2015 02:46:42 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/mrbbbuye/public_html/wp-content/plugins/woocommerce/templates/cart/cart.php on line 109
+[30-Jun-2015 02:32:03 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'woo_rss_thumb' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/mystile/functions.php'), require_once('/themes/mystile/functions/admin-init.php'), require_once('/themes/mystile/functions/admin-functions.php'), get_option查询的。
